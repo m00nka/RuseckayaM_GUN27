@@ -24,7 +24,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 944951857}
-  m_LocalRotation: {x: 0.009639879, y: 0.000000034384307, z: -3.3147593e-10, w: 0.99995357}
+  m_LocalRotation: {x: 0.003897963, y: 8.208723e-18, z: -1.0416054e-19, w: 0.99999243}
   m_LocalPosition: {x: 0, y: 1.3, z: -5.3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
@@ -51,13 +51,13 @@ MonoBehaviour:
   m_StreamingVersion: 20170927
   m_Priority: 10
   m_StandbyUpdate: 2
-  m_LookAt: {fileID: 8850345668415565307}
+  m_LookAt: {fileID: 5710611259697460152}
   m_Follow: {fileID: 7760579786750971989}
   m_Lens:
     FieldOfView: 40
     OrthographicSize: 5
-    NearClipPlane: 0.3
-    FarClipPlane: 1000
+    NearClipPlane: 0.1
+    FarClipPlane: 5000
     Dutch: 0
     ModeOverride: 0
     LensShift: {x: 0, y: 0}
@@ -138,11 +138,11 @@ MonoBehaviour:
   m_ScreenX: 0.5
   m_ScreenY: 0.588
   m_DeadZoneWidth: 0
-  m_DeadZoneHeight: 0
+  m_DeadZoneHeight: 0.05
   m_SoftZoneWidth: 0.6
   m_SoftZoneHeight: 0.85
-  m_BiasX: 0
-  m_BiasY: -0.09999997
+  m_BiasX: 0.04999995
+  m_BiasY: 0.09999998
   m_CenterOnActivate: 1
 --- !u!114 &2077182695
 MonoBehaviour:
@@ -1250,7 +1250,7 @@ MonoBehaviour:
   _slipLimit: 0.3
   _reverseMult: 0.4
   _maxSpeedFOV: 200
-  _fov: {x: 40, y: 40}
+  _fov: {x: 40, y: 90}
   _debugTorque: 0
 --- !u!82 &1791282371232124002
 AudioSource:
@@ -1373,7 +1373,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4300533007854612, guid: 0f5d80b13ed22d14b91a12eb2cfa86e6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 0.189
       objectReference: {fileID: 0}
     - target: {fileID: 4300533007854612, guid: 0f5d80b13ed22d14b91a12eb2cfa86e6, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1460,7 +1460,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4508696319873668, guid: 01757334d0222ed4881ce8922d96bd92, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.01
       objectReference: {fileID: 0}
     - target: {fileID: 4508696319873668, guid: 01757334d0222ed4881ce8922d96bd92, type: 3}
       propertyPath: m_LocalRotation.w
