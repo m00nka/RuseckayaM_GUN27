@@ -10,7 +10,7 @@ namespace Tanks
 	public class TransmissionSettings : ScriptableObject
 	{
 		private const float c_errorEngine = .5f;
-		private const float c_errorTorque = 500f;
+		private const float c_errorTorque = 1200f;
 		
 		[SerializeField, Tooltip("Графики зависимости мощности от скорости по передачам")]
 		private AnimationCurve[] _data;
