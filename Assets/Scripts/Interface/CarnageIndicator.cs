@@ -111,7 +111,6 @@ namespace Tanks.Interface
 			{
 				_messageAnim = _message.gameObject.AddComponent<Animation>();
 				_messageAnim.playAutomatically = false;
-				Debug.Log($"Auto add {nameof(Animation)} component for Message object!");
 			}
 			
 			var mults = _indicatorFill.GetComponentsInChildren<TextMeshProUGUI>();
