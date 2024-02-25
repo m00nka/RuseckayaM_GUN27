@@ -1558,6 +1558,58 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas3D
       objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.ctime0
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.ctime1
+      value: 32768
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.ctime2
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.ctime3
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key1.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key1.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key1.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key2.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key2.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key3.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key3.g
+      value: 0.9614335
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.key3.r
+      value: 0.00015183655
+      objectReference: {fileID: 0}
+    - target: {fileID: 3457356068568515281, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
+      propertyPath: _color.m_NumColorKeys
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0669a8421e43e6f41bf37f048c96e957, type: 3}
 --- !u!224 &8244531998412571757 stripped
