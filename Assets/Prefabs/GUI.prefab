@@ -220,6 +220,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1723140722070512734}
     m_Modifications:
+    - target: {fileID: 5226441983710964201, guid: aae5fecc44d00da45913e958e3de8a0b, type: 3}
+      propertyPath: m_fontSize
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 5226441983710964201, guid: aae5fecc44d00da45913e958e3de8a0b, type: 3}
+      propertyPath: m_colorMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5226441983710964201, guid: aae5fecc44d00da45913e958e3de8a0b, type: 3}
+      propertyPath: m_fontStyle
+      value: 33
+      objectReference: {fileID: 0}
+    - target: {fileID: 5226441983710964201, guid: aae5fecc44d00da45913e958e3de8a0b, type: 3}
+      propertyPath: m_enableVertexGradient
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5226441984088774068, guid: aae5fecc44d00da45913e958e3de8a0b, type: 3}
       propertyPath: m_Name
       value: CarnageIndicator
