@@ -29,5 +29,5 @@ MonoBehaviour:
     Text: UNSTOPPABLE!
     Clip: {fileID: 7400000, guid: 35df486b064e9954486c30eac969ff23, type: 2}
   - Mult: 6
-    Text: RAMPAGE!!!!
+    Text: CARNAGE!!!!
     Clip: {fileID: 7400000, guid: 3c8ecebab228bc24292b799d4ebc2db2, type: 2}
