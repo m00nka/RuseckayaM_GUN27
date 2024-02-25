@@ -1736,7 +1736,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972360, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: -3
+      value: 1.9440001
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972361, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_fontSizeBase
@@ -1772,11 +1772,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972361, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_fontColorGradient.bottomLeft.b
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972361, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_fontColorGradient.bottomLeft.g
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972361, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_fontColorGradient.bottomLeft.r
@@ -1784,11 +1784,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972361, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972361, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 1
+      value: 0.784
       objectReference: {fileID: 0}
     - target: {fileID: 1723140720769972361, guid: da8da7d6b24392c49b70b578935b5087, type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r

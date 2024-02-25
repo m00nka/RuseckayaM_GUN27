@@ -206,6 +206,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Speedometer
       objectReference: {fileID: 0}
+    - target: {fileID: 8249136773686347517, guid: 988aaf0341df99041abebe31440751e0, type: 3}
+      propertyPath: m_text
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 988aaf0341df99041abebe31440751e0, type: 3}
 --- !u!224 &8467576664193003210 stripped
